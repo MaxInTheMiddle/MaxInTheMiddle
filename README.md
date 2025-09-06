@@ -53,4 +53,4 @@
 ---
 
 ## 📫 Connect
-- LinkedIn: [Your LinkedIn Here]  
+- LinkedIn: [https://www.linkedin.com/in/maxarmstrong-it/]  
