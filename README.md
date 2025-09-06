@@ -2,6 +2,8 @@
 
 💻 **Cybersecurity Analyst | Blue & Red Team Enthusiast | Threat Hunter**  
 🔒 Passionate about offensive security, detection engineering, and endpoint defense.  
+I created this GitHub account as a quick reference hub for my pentesting methodology and CTF notes.
+
 
 ---
 
@@ -43,12 +45,6 @@
 ## 📚 CTF & Labs
 - **[CTF-Writeups](https://github.com/yourusername/ctf-writeups)** → Notes & solutions from CTF challenges.  
 - **[Detection-Lab](https://github.com/yourusername/detection-lab)** → Homelab configs for building a SOC environment.  
-
----
-
-## ⚡ Fun Stuff
-- **[MaxInTheMiddle](https://github.com/yourusername/MaxInTheMiddle)** → A repo with hacker jokes, memes, and scripts (`chmod +x MaxInTheMiddle`).  
-- ASCII art, random scripts, anything with hacker flair 😎  
 
 ---
 
