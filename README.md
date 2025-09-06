@@ -1,7 +1,7 @@
 # Hi, I'm Max 👋  
 
-**Cybersecurity Analyst | Blue & Red Team Enthusiast | Threat Hunter**  
-Passionate about all things security related.
+**Cybersecurity Analyst | Blue & Red Team Enthusiast | Threat Hunter**
+
 I created this GitHub account as a quick reference hub for my pentesting methodology and CTF notes.
 
 ---
