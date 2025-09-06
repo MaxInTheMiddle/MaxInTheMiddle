@@ -1,8 +1,9 @@
 # Max's Security Hub 
 
-**Cybersecurity Analyst | Blue & Red Team Enthusiast | Threat Hunter**
+I created this GitHub account as a quick reference hub for my pentesting methodology and CTF notes.  
 
-I created this GitHub account as a quick reference hub for my pentesting methodology and CTF notes.
+<pre><code>$ whoami
+MaxInTheMiddle</code></pre>
 
 ---
 
