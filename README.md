@@ -25,8 +25,7 @@ Web application attack techniques, covering payloads, exploitation methods, and 
 
 ## 🛠 Offensive Tools
 Collection of scripts, utilities, and techniques I use for pentesting and security testing.
-[View Offensive Tools Repo]
-(https://github.com/yourusername/offensive-tools)
+[View Offensive Tools Repo](https://github.com/yourusername/offensive-tools)
 
 ---
 
