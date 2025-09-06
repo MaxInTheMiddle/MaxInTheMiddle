@@ -1,4 +1,4 @@
-# Hi, I'm Max 👋  
+# Max's Security Hub 
 
 **Cybersecurity Analyst | Blue & Red Team Enthusiast | Threat Hunter**
 
@@ -24,7 +24,7 @@ Web application attack techniques, covering payloads, exploitation methods, and 
 ---
 
 ## 🛠 Offensive Tools
-Collection of scripts, utilities, and techniques I use for pentesting and security testing.
+Collection of scripts, utilities, and techniques I use for pentesting and security testing.  
 [View Offensive Tools Repo](https://github.com/yourusername/offensive-tools)
 
 ---
@@ -42,7 +42,7 @@ Step by step documentation for TryHackMe labs with commands, screenshots, and le
 ---
 
 ## 💡 Personal Projects
-Home lab experiments, custom scripts, and security projects I use to learn, test, and explore offensive and defensive techniques. 
+Home lab experiments, custom scripts, and security projects I use to learn, test, and explore offensive and defensive techniques.  
 [View Personal Projects Repo](https://github.com/yourusername/personal-projects)
 
 ## 📫 Connect
