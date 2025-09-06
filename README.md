@@ -6,11 +6,6 @@ I created this GitHub account as a quick reference hub for my pentesting methodo
 
 ---
 
-## 📜 Certifications
-- [Insert your certs here]  
-
----
-
 ## 🕵️‍♂️ Forensics
 All my forensic work, including endpoint analysis, memory/disk forensics, PCAP analysis, and log analysis.  
 [ Forensics ](https://github.com/yourusername/forensics)
@@ -44,6 +39,17 @@ Step by step documentation for TryHackMe labs with commands, screenshots, and le
 ## 💡 Personal Projects
 Home lab experiments, custom scripts, and security projects I use to learn, test, and explore offensive and defensive techniques.  
 [ Personal Projects ](https://github.com/yourusername/personal-projects)
+
+---
+
+## 📜 Certifications
+
+[![GCIH](https://img.shields.io/badge/GIAC-GCIH-blue?logo=giac&logoColor=white)](https://www.giac.org/certifications/security-incident-handling-gcih/)
+[![PNPT](https://img.shields.io/badge/TCM-PNPT-ff69b4?logo=tcm&logoColor=white)](https://certifications.tcm-sec.com/)
+[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/network)
+[![SC-900](https://img.shields.io/badge/Microsoft-SC--900-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/sc-900/)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxarmstrong-it/)
